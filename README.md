@@ -15,6 +15,6 @@ Our Project Group Consists of Four Talented Engineers:
 # 3. ABDUL RAFAY  (20SW064)   || GUI, UI Engineer
 # 4. M.TAHA       (20SW102)   || Database
 
-# We are Glad that we have developed such a great project under the guidance of maam hira noman.
+# We are Glad that we have developed such a great project under the guidance of 20SW116.
 
 # Thanks
